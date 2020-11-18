@@ -141,7 +141,7 @@ Curriculum to be done by the end of the week:
 | Live Lecture - Rails Validations | [Video](https://youtu.be/s4t6qG9_lTs)|  |
 | Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/ykiaF1PfEzk)|  |
 | Live Lecture - Refactoring w Layouts, Partials, Helpers | [Video](https://youtu.be/-uMgjwW9C0I)|  |
-|**Week 9**|
+|**Week 9** |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/HRnTolXMBLA)|  |
 | Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/5Qbi97w_syY)|  |
 | Live Lecture - Rails CRUD | [Video](https://youtu.be/wboOBIJxAic)|  |
