@@ -135,7 +135,7 @@ Curriculum to be done by the end of the week:
 |**Week 11**|
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/IrskhWKBf34)|  |
 | Live Lecture - Authentication in Rails | [Video](https://youtu.be/1mNUFDL2N_w)|  |
-| Live Lecture - Rails Portfolio Project Prep | [Video]()|  |
+| Live Lecture - Rails Portfolio Project Prep | [Video](https://youtu.be/EiSsDY0ozvg)|  |
 |**Week 10**|
 | Live Lecture - Rails Validations | [Video](https://youtu.be/s4t6qG9_lTs)|  |
 | Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/ykiaF1PfEzk)|  |
