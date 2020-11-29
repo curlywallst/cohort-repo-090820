@@ -10,24 +10,28 @@ Gretchen Stamp - gretchen.stamp@flatironschool.com - [Booking Link](https://cale
 1. [How to Join Learn Slack Workspace](https://help.learn.co/en/articles/492943-how-to-join-slack)
 2. [First Mile Checklist](https://docs.google.com/document/d/1JIHGkQr4HK7ZSHTIb8do6UJydS2fxWgZX3CuEvAmMoo/edit?usp=sharing) 
 
-# Pairing Week 11
+# Pairing Week 12
 ## Pairing assignments for those that would like to pair program
 
 | Pair 1       | Pair 2       |  Pair 3 |
 | ------------- |:-------------:| ------- |
-| Adriana DiPietro   | Travis Lee    |
-| QueenTesa Fuggett   | Valeria Copleman    |
-| Moose Davis   | Alexander Darvin    | Christina Howard|
-| Matthew Thomas   | Ariel Ibarra    |
-| Leah Schlackman   | Brock Byrd    |
-| Kayla Budzeak   | Cailin Kless    |
-| Jessica Watts   | CJ Davis    |
-| Gabriela Johnson   | Dasha Kondratyeva    |
-| Eli Huebner   | David Hutchinson    |
+| Alexander Darvin   | Kayla Budzeak    |
+| Jessica Watts   | Leah Schlackman    |
+| Gabriela Johnson   | Matthew Thomas    |
+| Eli Huebner   | Moose Davis    |
+| David Hutchinson   | QueenTesa Fuggett    |
+| Dasha Kondratyeva   | Ryan Huber    |
+| CJ Davis   | Travis Lee    |
+| Christina Howard   | Ariel Ibarra    |
+| Cailin Kless   | Brock Byrd    | Valeria Copleman|
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+### Week 12: Novenber 28, 2020
+#### This week's focus: Rails Portfolio Project
+- We will have 2 Open Office Hours per day at 11am and 3pm EST
+
 ### Week 11: November 16, 2020
 #### This week's focus: Rails Helpers, Authentication, and Advanced Routing
 
